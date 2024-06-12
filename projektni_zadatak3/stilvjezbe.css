@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkred;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 20px;
+	width: 1000px;
+	padding: 10px;	
+}
+h1 { 
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 50px;
+	color:firebrick;
+	background-color: peachpuff;
+}
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: firebrick;
+}
+a:link {
+	color:firebrick;
+	background-color:peachpuff;
+	padding: 10px;
+	line-height: 40px;
+	}
+.pozadina {
+	background-image: url("pozadina2.jpg");
+}
+
+	
+
+
